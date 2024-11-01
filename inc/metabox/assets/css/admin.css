@@ -1,0 +1,16 @@
+#member_social_link_meta .wpvane-input .social_icon_name{
+    margin-right: 40px;
+}
+
+#member_social_link_meta .wpvane-clone{
+    margin-top: 10px;
+}
+
+#member_social_link_meta input[type=text],
+#member_info_meta input[type=text]{
+    height: 28px;
+}
+
+.wpvane-input{
+    position: relative;
+}

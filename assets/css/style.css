@@ -1,0 +1,59 @@
+.text-center{
+    text-align: center;
+}
+
+.wpv-wp-team-section .wpv-team-member{
+    padding: 0 10px;
+}
+
+.wpv-wp-team-section .wpv-team-member .wpt-member-info{
+    margin-top: 20px;
+}
+
+.wpv-wp-team-section .wpv-team-member .wpt-member-name{
+    font-size: 20px;
+    color: #2e2e2e;
+    font-weight: 600;
+    margin-top: 0;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.wpv-wp-team-section .wpv-team-member .wpt-member-designation{
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #888888;
+    line-height: 16px;
+}
+
+.wpv-wp-team-section .wpv-team-member .wpt-member-social-links a:hover{
+    color: #f39909;
+}
+.wpv-wp-team-section .wpv-team-member .wpt-member-social-links a{
+    font-size: 16px;
+    margin: 0 3px;
+    border: 0;
+    color: #777777;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.wpv-wp-team-section .slick-arrow{
+    position: absolute;
+    top: 50%;
+    margin-top: -22px;
+    font-size: 22px;
+}
+
+.wpv-wp-team-section .slick-prev{
+    left: -12px;
+    cursor: pointer;
+}
+
+.wpv-wp-team-section .slick-next{
+    right: -12px;
+    cursor: pointer;
+}
